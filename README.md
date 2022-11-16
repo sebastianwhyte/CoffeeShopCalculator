@@ -1,7 +1,7 @@
 # CoffeeShopCalculator
 ### A program made with JavaFX that generates an invoice for a coffee shop.
 
-The initial interface consists of a login screen for the user. If the program doesn't recognize the login credentials, then it creates an account for them. 
+The graphical initial interface consists of a login screen for the user. If the program doesn't recognize the login credentials, then it creates an account for them. 
 
 ![Screen Shot 2022-11-15 at 9 40 15 PM](https://user-images.githubusercontent.com/62267311/202071203-264a41f8-82eb-49df-843b-4e0b750d7099.png)
 ![Screen Shot 2022-11-15 at 9 40 28 PM](https://user-images.githubusercontent.com/62267311/202071357-198ead4c-1799-4b51-a06d-6f5f87b504ac.png)
